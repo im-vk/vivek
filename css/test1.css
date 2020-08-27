@@ -1,0 +1,26 @@
+.top{
+  background-color: red;
+  height: 150px;
+  width: 150px;
+  position: fixed;
+
+
+}
+.mid{
+  background-color: blue;
+  height: 150px;
+  width: 150px;
+  position:fixed;
+  left:150px;
+
+}
+.bot{
+  background-color: yellow;
+  height: 150px;
+  width: 150px;
+  position:fixed;
+  left:300px;
+
+
+
+}
